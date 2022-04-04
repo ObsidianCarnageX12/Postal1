@@ -1,3 +1,7 @@
+Goals of this repo:
+1.Fix the editor(hopefully)!
+2.Maintain proper functionality.
+
 # Postal 1
 
 **Platform:** Windows  
