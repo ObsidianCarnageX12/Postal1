@@ -74,6 +74,8 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <OutDir>.\Build\Cyan\Release\</OutDir>
     <IntDir>.\Build\Cyan\Release\</IntDir>
+    <IncludePath>C:\Users\namel\Documents\GitHub\Postal1\Source\nfd\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\namel\Documents\GitHub\Postal1\Source\nfd;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release(DebugLog)|Win32'">
     <OutDir>.\Build\Cyan\Release\</OutDir>

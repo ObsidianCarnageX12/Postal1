@@ -21,6 +21,9 @@
 #include "Blue.h"
 #include "../cyan.h"
 
+// Include the cross platform dialog library to hopefully fix the editor
+#include <nfd.h>
+
 extern SDL_Window *sdlWindow;
 extern SDL_Surface *sdlShadowSurface;
 extern int sdlWindowWidth;
