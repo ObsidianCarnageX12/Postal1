@@ -1,0 +1,37 @@
+﻿  Bdebug.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bdebug.cpp(142,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bdebug.cpp(147,53): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bdebug.cpp(155,4): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Bdisp.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bdisp.cpp(255,18): warning C4244: '=': conversion from 'short' to 'U8', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bdisp.cpp(256,20): warning C4244: '=': conversion from 'short' to 'U8', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bdisp.cpp(257,19): warning C4244: '=': conversion from 'short' to 'U8', possible loss of data
+  Bjoy.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Bkey.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Bmain.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Bmouse.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bmouse.cpp(89,16): warning C4101: 'h': unreferenced local variable
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bmouse.cpp(89,13): warning C4101: 'w': unreferenced local variable
+  Bsound.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\Bsound.cpp(102,24): warning C4244: '=': conversion from 'long' to 'Uint8', possible loss of data
+  Btime.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1543,5): warning MSB8012: TargetPath(C:\Users\namel\Documents\GitHub\Postal1\Source\Build\Blue\Debug\Blue.lib) does not match the Library's OutputFile property value (C:\Users\namel\Documents\GitHub\Postal1\Source\Build\Blue\Debug\BlueD.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetName(Blue) does not match the Library's OutputFile property value (BlueD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Blue.vcxproj -> C:\Users\namel\Documents\GitHub\Postal1\Source\Build\Blue\Debug\Blue.lib

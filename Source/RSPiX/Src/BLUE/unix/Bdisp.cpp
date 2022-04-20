@@ -743,7 +743,7 @@ extern short rspSetVideoMode(	// Returns 0 if successfull, non-zero otherwise
         SDL_RenderClear(sdlRenderer);
         SDL_RenderPresent(sdlRenderer);
 #ifndef MOBILE //Need to remove this for the mouse point to be in the correct place, Android And IOS
-        SDL_RenderSetLogicalSize(sdlRenderer, FramebufferWidth, FramebufferHeight);
+        SDL_RenderSetLogicalSize(sdlRenderer, FramebufferWidth *2, FramebufferHeight *2);
 		TRACE("SDL Renderer set: %ix%i\n", FramebufferWidth, FramebufferHeight);
 #endif
         sdlTexture = SDL_CreateTexture(sdlRenderer, SDL_PIXELFORMAT_ARGB8888, SDL_TEXTUREACCESS_STREAMING, FramebufferWidth, FramebufferHeight);

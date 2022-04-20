@@ -1,0 +1,14 @@
+﻿  uColors.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  uDialog.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  uPath.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Cyan\Unix\uPath.cpp(78,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Cyan\Unix\uPath.cpp(118,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Cyan\Unix\uPath.cpp(160,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Cyan.vcxproj -> C:\Users\namel\Documents\GitHub\Postal1\Source\Build\Cyan\Debug\Cyan.lib

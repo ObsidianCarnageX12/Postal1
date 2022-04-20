@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e38f582e-0ba8-452a-ac36-b84f68f9373c": {
+      "ProjectGuid": "e38f582e-0ba8-452a-ac36-b84f68f9373c",
+      "DisplayName": "Postal Common",
+      "ColorIndex": 0
+    },
+    "e38d3350-2c56-455d-8f1a-91862fb4824a": {
+      "ProjectGuid": "e38d3350-2c56-455d-8f1a-91862fb4824a",
+      "DisplayName": "Green",
+      "ColorIndex": 1
+    },
+    "99162fbf-8328-4ce6-b7fc-582ad11b3adf": {
+      "ProjectGuid": "99162fbf-8328-4ce6-b7fc-582ad11b3adf",
+      "DisplayName": "WishPiX",
+      "ColorIndex": 2
+    },
+    "faea86f3-327d-47b5-838b-307b885b3113": {
+      "ProjectGuid": "faea86f3-327d-47b5-838b-307b885b3113",
+      "DisplayName": "Cyan",
+      "ColorIndex": 3
+    },
+    "e5294c63-426a-4b28-8423-4799b6a9b510": {
+      "ProjectGuid": "e5294c63-426a-4b28-8423-4799b6a9b510",
+      "DisplayName": "Blue",
+      "ColorIndex": 4
+    },
+    "11eebb52-f1d7-4dd6-bb83-a34cc163f6e7": {
+      "ProjectGuid": "11eebb52-f1d7-4dd6-bb83-a34cc163f6e7",
+      "DisplayName": "Orange",
+      "ColorIndex": 5
+    },
+    "946c9d71-932c-47f0-99c8-2d54e502d921": {
+      "ProjectGuid": "946c9d71-932c-47f0-99c8-2d54e502d921",
+      "DisplayName": "Postal Plus",
+      "ColorIndex": 6
+    },
+    "b34b944e-d7b4-48ea-900b-07e31b0b53f4": {
+      "ProjectGuid": "b34b944e-d7b4-48ea-900b-07e31b0b53f4",
+      "DisplayName": "BLiT",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

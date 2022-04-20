@@ -709,6 +709,7 @@
 
 #include <ctype.h>
 #include <set>
+#include <Windows.h>
 
 // This is used to get rid of all trace of the editor code when it's disabled
 #if !defined(EDITOR_DISABLED)
@@ -966,7 +967,7 @@
 #define SELECTION_THICKNESS			1
 
 #define GUIS_GUI_FILE				"res/editor/GUIs.gui"
-#define MAP_GUI_FILE					"res/editor/Map.gui"
+#define MAP_GUI_FILE				"res/editor/Map.gui"
 #define NAVNETS_GUI_FILE			"res/editor/NavNets.gui"
 
 #define DISP_INFO_FONT_H			15
@@ -1136,11 +1137,11 @@ static RHot*	ms_photSel		= NULL;	// RHot* to hotbox associated with selected thi
 
 // Initial width and height of display so we can
 // restore video mode when done editting.
-static short	ms_sInitialDisplayWidth		= 0;
-static short	ms_sInitialDisplayHeight	= 0;
-static short	ms_sInitialDeviceDepth		= 0;
-static short	ms_sInitialDeviceWidth		= 0;
-static short	ms_sInitialDeviceHeight		= 0;
+static short	ms_sInitialDisplayWidth		= 1024;
+static short	ms_sInitialDisplayHeight	= 768;
+static short	ms_sInitialDeviceDepth		= 32;
+static short	ms_sInitialDeviceWidth		= 1024;
+static short	ms_sInitialDeviceHeight		= 768;
 
 // The current camera.
 // Scrollbars' callback update camera pointed to by this.
@@ -2059,7 +2060,7 @@ extern void GameEdit(
 	// Clear screen
 	rspLockBuffer();
 
-	rspRect(RSP_BLACK_INDEX, g_pimScreenBuf, 0, 0, g_pimScreenBuf->m_sWidth, g_pimScreenBuf->m_sHeight);
+	rspRect(RSP_BLACK_INDEX, g_pimScreenBuf, 640, 480, g_pimScreenBuf->m_sWidth, g_pimScreenBuf->m_sHeight);
 
 	rspUnlockBuffer();
 

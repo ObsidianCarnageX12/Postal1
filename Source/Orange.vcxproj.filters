@@ -215,5 +215,8 @@
     <ClInclude Include="RSPiX\Src\orange\gui\txt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="NewFileBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

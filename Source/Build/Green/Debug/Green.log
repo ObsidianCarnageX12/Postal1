@@ -1,0 +1,45 @@
+﻿  hot.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Image.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Imagecon.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ImageFile.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InputEvent.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mix.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MixBuf.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pal.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PalFile.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sample.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  snd.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\Snd\snd.cpp(627,30): warning C4244: '=': conversion from 'short' to 'UCHAR', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\Snd\snd.cpp(628,26): warning C4244: '=': conversion from 'short' to 'UCHAR', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\Snd\snd.cpp(774,30): warning C4244: '=': conversion from 'short' to 'UCHAR', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\Snd\snd.cpp(775,26): warning C4244: '=': conversion from 'short' to 'UCHAR', possible loss of data
+  SndFx.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  task.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Green.vcxproj -> C:\Users\namel\Documents\GitHub\Postal1\Source\Build\Green\Debug\Green.lib

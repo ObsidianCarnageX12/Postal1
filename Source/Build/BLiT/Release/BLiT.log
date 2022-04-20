@@ -1,0 +1,71 @@
+﻿  alphablit.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  BLIT.CPP
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  BLITINIT.CPP
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  BLiTT.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  CFNT.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  Fspr1.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  FSPR8.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\FSPR8.cpp(377,11): warning C4244: 'initializing': conversion from 'long' to 'short', possible loss of data
+  line.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  mono.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  Rotate96.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(919,14): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(966,39): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\Rotate96.cpp(967,39): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  RPrint.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\RPrint.cpp(416,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\RPrint.cpp(429,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\RPrint.cpp(445,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ScaleFlat.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\ScaleFlat.cpp(115,2): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\GREEN\BLiT\ScaleFlat.cpp(383,2): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+  Generating Code...
+  BLiT.vcxproj -> C:\Users\namel\Documents\GitHub\Postal1\Source\Build\BLiT\Release\BLiT.lib

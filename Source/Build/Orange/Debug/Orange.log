@@ -1,0 +1,245 @@
+﻿  ANIMSPRT.CPP
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  attribute.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  btn.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  channel.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  colormatch.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\colormatch.cpp(440,13): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\colormatch.cpp(793,23): warning C4244: '=': conversion from 'short' to 'UCHAR', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\colormatch.cpp(800,33): warning C4244: '=': conversion from 'short' to 'UCHAR', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\colormatch.cpp(1013,35): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+  DirtRect.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  dithermatch.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(176,22): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(177,24): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(178,23): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(568,22): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(569,24): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(570,23): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(859,22): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(860,24): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\color\dithermatch.cpp(861,23): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+  dlg.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  edit.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  file.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(355,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(378,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(390,25): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(391,25): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(392,25): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(393,25): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(394,25): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(459,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(462,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(467,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(484,21): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(488,21): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(498,40): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(500,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(501,25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(521,13): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(523,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(581,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(1060,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\File\file.cpp(1103): message : see reference to function template instantiation 'long ReadASCII<U8>(TYPE *,long,FILE *,double)' being compiled
+          with
+          [
+              TYPE=U8
+          ]
+  FixedPoint.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  guiItem.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GUI\ListBox.h(341,15): warning C4244: 'initializing': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GUI\guiItem.cpp(981,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GUI\guiItem.cpp(1000,3): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GUI\guiItem.cpp(2557,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  iff.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lasso.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  laymage.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Laymage\laymage.cpp(280,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Laymage\laymage.cpp(340,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Laymage\laymage.cpp(859,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Laymage\laymage.cpp(1497,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ListBox.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GUI\ListBox.h(341,15): warning C4244: 'initializing': conversion from 'long' to 'short', possible loss of data
+  ListContents.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GUI\ListBox.h(341,15): warning C4244: 'initializing': conversion from 'long' to 'short', possible loss of data
+  meter.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Meter\meter.h(192,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Meter\meter.cpp(114,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Meter\meter.cpp(332,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MsgBox.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  mtask.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\MTask\mtask.cpp(191,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  MultiBtn.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  MultiGrid.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\MultiGrid\MultiGrid.cpp(285,22): warning C4244: 'initializing': conversion from 'T' to 'short', possible loss of data
+          with
+          [
+              T=long
+          ]
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\MultiGrid\MultiGrid.cpp(388,17): warning C4244: 'initializing': conversion from 'T' to 'short', possible loss of data
+          with
+          [
+              T=long
+          ]
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\MultiGrid\MultiGrid.cpp(710,25): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\MultiGrid\MultiGrid.cpp(711,25): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+  MultiGridIndirect.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  ProcessGui.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  profile.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.h(299,18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(78,38): warning C4244: '=': conversion from 'S64' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(120,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(191,38): warning C4244: '=': conversion from 'S64' to 'short', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(226,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(304,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(308,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Debug\profile.cpp(433,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PushBtn.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  QuickMath.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  Region.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\GameLib\Region.cpp(539,14): warning C4244: 'initializing': conversion from 'long' to 'short', possible loss of data
+  rstring.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(408,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(416,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(424,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(432,16): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(499,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(507,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(515,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.h(523,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\RString\rstring.cpp(331,16): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  scrollbar.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  SHAPES.CPP
+  SimpleBatch.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(80,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(86,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(92,29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(93,22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(105,29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(106,24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(125,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.h(131,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.cpp(96,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.cpp(130,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.cpp(194,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.cpp(202,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\Parse\SimpleBatch.cpp(207,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SPRITE.CPP
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\BLUE\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  str.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  txt.cpp
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(263,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\Blue\unix\UnixSystem.h(269,5): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(190,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+C:\Users\namel\Documents\GitHub\Postal1\Source\RSPiX\Src\ORANGE\QuickMath\QuickMath.h(191,12): warning C4244: '=': conversion from 'S64' to 'S32', possible loss of data
+  Generating Code...
+  Orange.vcxproj -> C:\Users\namel\Documents\GitHub\Postal1\Source\Build\Orange\Debug\Orange.lib
